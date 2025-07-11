@@ -41,7 +41,7 @@
 
     <!-- kernel/ -->
         <!-- samsung -->
-        <project path="kernel/samsung/s5e8825" name="android_kernel_samsung_s5e8825" remote="exynos1280" revision="s5e8825-unified" />
+        <project path="kernel/samsung/s5e8825" name="android_kernel_samsung_s5e8825" remote="exynos1280" />
 
     <!-- vendor/ -->
         <!-- samsung/ -->
