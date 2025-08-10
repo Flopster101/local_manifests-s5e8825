@@ -24,7 +24,7 @@
 
     <!-- hardware/ -->
         <!-- samsung/ -->
-        <project path="hardware/samsung" name="android_hardware_samsung" remote="linux4" />
+        <project path="hardware/samsung" name="android_hardware_samsung" remote="los" />
 
         <!-- samsung_slsi/ -->
         <project path="hardware/samsung_slsi/fm" name="android_hardware_samsung_slsi_fm" remote="los" />
