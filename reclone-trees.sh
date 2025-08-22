@@ -8,7 +8,7 @@ DEVICES=(
 XML="$(pwd)/.repo/local_manifests/s5e8825.xml"
 URL="https://github.com/exynos1280"
 [ "$(whoami)" = "ksawlii" ] && URL="git@github.com-ksawlii:exynos1280"
-[ -z "$BRANCH" ] && BRANCH="lineage-22.2"
+[ -z "$BRANCH" ] && BRANCH="flopster101"
 
 if [ ! -f "$XML" ]; then
   echo "s5e8825.xml not found. Please execute from root dir."
